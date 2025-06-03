@@ -50,3 +50,7 @@ Here are some ideas to get you started:
 ## 📬 Let's Connect
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - Email: kikymaulana00@gmail.com
+
+- ![Languages](https://img.shields.io/badge/code-JS%20%7C%20Go%20%7C%20Python-blue)
+- ![DevOps](https://img.shields.io/badge/devops-Docker%20%7C%20CI/CD%20%7C%20Linux-critical)
+- ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
