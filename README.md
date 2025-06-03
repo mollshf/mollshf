@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🔍 Featured Projects
 
-### 📦 Sistem Informasi Akademik API
+### 📦 Academic Information System API
 > Nodejs + Expressjs + MongoDB — Full-featured academic system with modular design.
 
 ### 📁 Filesystem API
